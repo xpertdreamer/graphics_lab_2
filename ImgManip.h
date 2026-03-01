@@ -7,7 +7,7 @@
 #define TIMER_ID 1
 #define SPRITE_WIDTH 100
 #define SPRITE_HEIHT 100
-#define MOVE_STEP 5
+#define MOVE_STEP 10
 
 /*
 * Bitmap for background image
